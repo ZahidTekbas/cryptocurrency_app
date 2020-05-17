@@ -1,6 +1,11 @@
 # crypto_app
 
-A new Flutter project.
+A Flutter project that demonstrates how to make network calls, how to use JSON decoding and some UI improvements for beginners. To execute the app, you may create required files with 'flutter create .' command.
+
+Also, you can obtain coinmarketcap api key to fetch latest data or you may prefer to use json variable to list the pre-created information. 
+
+<img src="ss1.png" width="350" height="700" />
+
 
 ## Getting Started
 
